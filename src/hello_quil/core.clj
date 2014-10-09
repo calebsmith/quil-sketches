@@ -3,7 +3,7 @@
   (:require [hello-quil.dynamic :as dynamic]))
 
 (defsketch gen-art-21
-  :title "Squared 2D Noise Grid"
+  :title "Animated lines"
   :setup dynamic/setup
   :draw dynamic/draw
-  :size [600 600])
+  :size [300 300])

@@ -1,6 +1,6 @@
 (defproject hello-quil "0.1.0-SNAPSHOT"
   :description "Trying out quil"
-  :url "http://github.com/calebsmithnc/quilp"
+  :url "http://github.com/calebsmithnc/quil-examples"
   :license {:name "GPLv2"
             :url "http://www.gnu.org/licenses/gpl-2.0.html"}
   :dependencies [[org.clojure/clojure "1.6.0"]

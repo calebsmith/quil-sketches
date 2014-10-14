@@ -15,7 +15,7 @@ Using vim, install vim-fireplace and -
 
 Open a core.clj file and use::
 
-    :Connect
+    :Console
 
 This will take some time. If you setup nailgun and configure vim-clojure to
 connect to it, you can get better load time
